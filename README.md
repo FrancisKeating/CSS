@@ -1,9 +1,9 @@
 # CSS
 
-<These just provide structure.  They will not really make the text look different until style is added with CSS.>
+><These just provide structure.  They will not really make the text look different until style is added with CSS.><
 
 
-<Css Link - <link rel="stylesheet" href="formatting.css">>
+><<Css Link - <link rel="stylesheet" href="formatting.css">><
 
 <header></header> -  This is where you would put a logo, company heading
 
